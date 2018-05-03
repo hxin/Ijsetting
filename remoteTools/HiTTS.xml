@@ -1,0 +1,16 @@
+<toolSet name="HiTTS">
+  <tool name="HiTTS" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="REMOTE_SDK" CONNECTION_ID="ssh://xinhe@sidbdri.inf.ed.ac.uk:22/home/xinhe/.virtualenvs/HiTTS/bin/python">
+    <exec>
+      <option name="COMMAND" value="/bin/bash" />
+      <option name="PARAMETERS" value="/home/xinhe/Projects/HiTTS/src/HiTTS.sh" />
+      <option name="WORKING_DIRECTORY" value="/home/xinhe/Projects/HiTTS" />
+    </exec>
+  </tool>
+  <tool name="barcodeCount.sh" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="REMOTE_SDK" CONNECTION_ID="ssh://xinhe@sidbdri.inf.ed.ac.uk:22/usr/bin/python">
+    <exec>
+      <option name="COMMAND" value="/bin/bash" />
+      <option name="PARAMETERS" value="/home/xinhe/Projects/HiTTS/src/barcodeCount.sh -f /srv/data/scobb/HiTTS/Ralph/HiTTS-2r_S8_R1_001.fastq.gz -r /srv/data/scobb/HiTTS/Ralph/HiTTS-2r_S8_R2_001.fastq.gz -a 'CCCTGGTGAATCGCATCG' -g 'CTCTTCTTTTTTTTCTGCAG'  -d /home/xinhe/tmp -o BarcodeCount.csv -k -c /home/xinhe/.virtualenvs/HiTTS/bin/cutadapt -t 16" />
+      <option name="WORKING_DIRECTORY" value="/home/xinhe/Projects/HiTTS" />
+    </exec>
+  </tool>
+</toolSet>

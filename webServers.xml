@@ -1,0 +1,22 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8e0b67ea-4bc2-4a55-8ac0-3522c2680217" name="SIDB" url="http://sidbdri.inf.ed.ac.uk">
+        <fileTransfer host="sidbdri.inf.ed.ac.uk" port="22" rootFolder="/home/xinhe" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="60000" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e7eb99d0-3ba8-4f4e-88b5-87cc0ebb1d3c" name="SIDB_ROOT" url="http://sidbdri.inf.ed.ac.uk">
+        <fileTransfer host="sidbdri.inf.ed.ac.uk" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="60000" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

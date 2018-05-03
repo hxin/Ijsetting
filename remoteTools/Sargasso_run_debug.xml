@@ -1,0 +1,9 @@
+<toolSet name="Sargasso_run_debug">
+  <tool name="run_debug" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="REMOTE_SDK" CONNECTION_ID="ssh://xinhe@sidbdri.inf.ed.ac.uk:22/home/xinhe/.virtualenvs/Sargasso_testsuite/bin/python">
+    <exec>
+      <option name="COMMAND" value="/bin/bash" />
+      <option name="PARAMETERS" value="/home/xinhe/Projects/Sargasso_testsuite/src/run_debug.sh" />
+      <option name="WORKING_DIRECTORY" value="/home/xinhe/Projects/Sargasso" />
+    </exec>
+  </tool>
+</toolSet>

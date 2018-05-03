@@ -1,0 +1,9 @@
+<toolSet name="Sargass_run_compare">
+  <tool name="run_test" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="8e0b67ea-4bc2-4a55-8ac0-3522c2680217">
+    <exec>
+      <option name="COMMAND" value="/bin/bash" />
+      <option name="PARAMETERS" value="/home/xinhe/Projects/Sargasso_testsuite/src/run_test.sh" />
+      <option name="WORKING_DIRECTORY" value="/home/xinhe/Projects/Sargasso_testsuite" />
+    </exec>
+  </tool>
+</toolSet>
