@@ -11,6 +11,7 @@
       <mapping pattern="filter_reads" type="PLAIN_TEXT" />
       <mapping pattern="mouse" type="PLAIN_TEXT" />
       <mapping pattern="log" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="known_hosts" type="PLAIN_TEXT" />
       <mapping pattern=".gitiniore" type="PLAIN_TEXT" />
       <mapping pattern="2not1" type="PLAIN_TEXT" />
@@ -25,6 +26,8 @@
       <mapping pattern="g" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile2" type="PLAIN_TEXT" />
       <mapping pattern="filter_control" type="PLAIN_TEXT" />
+      <mapping pattern="note" type="PLAIN_TEXT" />
+      <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping pattern="why]" type="PLAIN_TEXT" />
       <mapping pattern=".bashrc" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
@@ -36,16 +39,15 @@
       <mapping pattern=".profile" type="PLAIN_TEXT" />
       <mapping pattern="._.bash_profile" type="PLAIN_TEXT" />
       <mapping pattern="empyt" type="PLAIN_TEXT" />
-      <mapping pattern=".bash_logout" type="PLAIN_TEXT" />
       <mapping pattern="dummy_star_index_file" type="PLAIN_TEXT" />
       <mapping pattern="build" type="PLAIN_TEXT" />
       <mapping pattern="filter_sample_reads" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="2bdelete" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_3" type="PLAIN_TEXT" />
+      <mapping pattern="project_note" type="PLAIN_TEXT" />
+      <mapping pattern=".bash_logout" type="PLAIN_TEXT" />
       <mapping pattern="list" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping ext="time" type="PLAIN_TEXT" />
       <mapping ext="refflat" type="PLAIN_TEXT" />
       <mapping ext="featurecounts" type="PLAIN_TEXT" />
