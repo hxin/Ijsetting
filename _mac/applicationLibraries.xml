@@ -86,6 +86,11 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="SIDB_designing_rat_models interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="sidb_Sargasso interpreter library">
       <CLASSES />
       <JAVADOC />
