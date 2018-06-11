@@ -81,6 +81,11 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="Remote Python 2.7.12 (ssh://xinhe@sidbdri.inf.ed.ac.uk:22/home/xinhe/.virtualenvs/ich_jamie_loan/bin/python) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="SIDB default interpreter library">
       <CLASSES />
       <JAVADOC />
