@@ -1,5 +1,5 @@
 <toolSet name="SIDB">
-  <tool name="dummy.sh" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="REMOTE_SDK" CONNECTION_ID="ssh://xinhe@sidbdri.inf.ed.ac.uk:22/usr/bin/python">
+  <tool name="dummy.sh" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="REMOTE_SDK" CONNECTION_ID="ssh://xinhe@sidbdri.inf.ed.ac.uk:22/usr/bin/python">
     <exec>
       <option name="COMMAND" value="/bin/bash" />
       <option name="PARAMETERS" value="dummy.sh" />

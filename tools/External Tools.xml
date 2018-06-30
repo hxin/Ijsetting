@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="dummy.sh" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/bin/bash" />
+      <option name="PARAMETERS" value="dummy.sh" />
+      <option name="WORKING_DIRECTORY" value="/home/xinhe/Projects/cookiecutter-de_analysis_skeleton/{{cookiecutter.project_name}}" />
+    </exec>
+  </tool>
+</toolSet>
