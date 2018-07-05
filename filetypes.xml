@@ -59,6 +59,7 @@
       <mapping ext="featurecounts" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="summary" type="PLAIN_TEXT" />
       <mapping ext="rd" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
@@ -66,6 +67,7 @@
       <mapping ext="rat" type="PLAIN_TEXT" />
       <mapping ext="fastq" type="PLAIN_TEXT" />
       <mapping ext="mouse" type="PLAIN_TEXT" />
+      <removed_mapping ext="so" type="UNKNOWN" />
     </extensionMap>
   </component>
 </application>
