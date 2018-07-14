@@ -64,6 +64,7 @@
       <mapping ext="rat" type="PLAIN_TEXT" />
       <mapping ext="fastq" type="PLAIN_TEXT" />
       <mapping ext="mouse" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
       <removed_mapping ext="so" type="UNKNOWN" />
       <mapping pattern="Dockerfile3" type="Dockerfile" />
       <mapping pattern="Dockerfile_2" type="Dockerfile" />
