@@ -96,6 +96,11 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="SIDB_rMATS-STAT interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="sidb_Sargasso interpreter library">
       <CLASSES />
       <JAVADOC />
