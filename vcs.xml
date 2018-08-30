@@ -158,6 +158,10 @@
           <option name="url" value="https://github.com/sidbdri/lord_almar.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/sidbdri/dreadd_philip.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/Workspace" />
