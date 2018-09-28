@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="8e0b67ea-4bc2-4a55-8ac0-3522c2680217" name="SIDB" url="http://sidbdri.inf.ed.ac.ukp;">
-        <fileTransfer host="sidbdri.inf.ed.ac.ukp;" port="22" rootFolder="/home/xinhe" accessType="SFTP">
+      <webServer id="8e0b67ea-4bc2-4a55-8ac0-3522c2680217" name="SIDB" url="http://sidbdri.inf.ed.ac.uk">
+        <fileTransfer host="sidbdri.inf.ed.ac.uk" port="22" rootFolder="/home/xinhe" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="60000" />
           </advancedOptions>
