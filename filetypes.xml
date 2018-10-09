@@ -1,23 +1,22 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Dockerfile_2" type="Dockerfile" />
-      <mapping pattern="Dockerfile3" type="Dockerfile" />
+      <mapping pattern="3" type="PLAIN_TEXT" />
       <mapping pattern="rat" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern=".bash_history" type="PLAIN_TEXT" />
       <mapping pattern="count2" type="PLAIN_TEXT" />
       <mapping pattern="filter_reads" type="PLAIN_TEXT" />
       <mapping pattern="mouse" type="PLAIN_TEXT" />
-      <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="log" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="known_hosts" type="PLAIN_TEXT" />
       <mapping pattern=".gitiniore" type="PLAIN_TEXT" />
       <mapping pattern="2not1" type="PLAIN_TEXT" />
-      <mapping pattern=".bash_profile" type="PLAIN_TEXT" />
       <mapping pattern="debugInfo" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="note" type="PLAIN_TEXT" />
+      <mapping pattern="build" type="PLAIN_TEXT" />
       <mapping pattern=".zshrc" type="PLAIN_TEXT" />
       <mapping pattern="s" type="PLAIN_TEXT" />
       <mapping pattern="history" type="PLAIN_TEXT" />
@@ -28,40 +27,38 @@
       <mapping pattern="Dockerfile2" type="PLAIN_TEXT" />
       <mapping pattern="refflat" type="PLAIN_TEXT" />
       <mapping pattern="filter_control" type="PLAIN_TEXT" />
+      <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping pattern="note2" type="PLAIN_TEXT" />
       <mapping pattern="why]" type="PLAIN_TEXT" />
-      <mapping pattern="Leave P3-2 out" type="PLAIN_TEXT" />
       <mapping pattern=".bashrc" type="PLAIN_TEXT" />
+      <mapping pattern="2bdelete" type="PLAIN_TEXT" />
+      <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="mislabelling" type="PLAIN_TEXT" />
       <mapping pattern="why" type="PLAIN_TEXT" />
-      <mapping pattern="3" type="PLAIN_TEXT" />
+      <mapping pattern=".bash_profile" type="PLAIN_TEXT" />
       <mapping pattern="2" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern=".profile" type="PLAIN_TEXT" />
       <mapping pattern="._.bash_profile" type="PLAIN_TEXT" />
       <mapping pattern="empyt" type="PLAIN_TEXT" />
-      <mapping pattern=".bash_logout" type="PLAIN_TEXT" />
       <mapping pattern="dummy_star_index_file" type="PLAIN_TEXT" />
-      <mapping pattern="build" type="PLAIN_TEXT" />
+      <mapping pattern="Leave P3-2 out" type="PLAIN_TEXT" />
       <mapping pattern="filter_sample_reads" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern="2bdelete" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_3" type="PLAIN_TEXT" />
       <mapping pattern="&lt;output-file&gt;" type="PLAIN_TEXT" />
       <mapping pattern="get_sequence" type="PLAIN_TEXT" />
-      <mapping pattern="list" type="PLAIN_TEXT" />
       <mapping pattern="sample_meta" type="PLAIN_TEXT" />
       <mapping pattern="project_note" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="tmp" type="PLAIN_TEXT" />
+      <mapping pattern=".bash_logout" type="PLAIN_TEXT" />
+      <mapping pattern="list" type="PLAIN_TEXT" />
       <mapping ext="time" type="PLAIN_TEXT" />
       <mapping ext="refflat" type="PLAIN_TEXT" />
       <mapping ext="gtf" type="PLAIN_TEXT" />
-      <mapping ext="featurecounts" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="featurecounts" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
-      <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="summary" type="PLAIN_TEXT" />
       <mapping ext="rd" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
@@ -71,7 +68,8 @@
       <mapping ext="mouse" type="PLAIN_TEXT" />
       <mapping ext="fa" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
-      <removed_mapping ext="so" type="UNKNOWN" />
+      <mapping pattern="Dockerfile3" type="Dockerfile" />
+      <mapping pattern="Dockerfile_2" type="Dockerfile" />
     </extensionMap>
   </component>
 </application>
